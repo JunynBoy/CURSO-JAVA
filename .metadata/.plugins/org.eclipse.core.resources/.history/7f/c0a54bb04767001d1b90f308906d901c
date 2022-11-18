@@ -1,0 +1,13 @@
+package sintaxe_variaveis_e_convencoes;
+
+public class TestaCaracteres {
+	public static void main (String[] args) {
+		//char guarda apenas 1 letrinha
+		char letra = 'a';
+		System.out.println(letra);
+		
+	}
+	
+	
+	
+}

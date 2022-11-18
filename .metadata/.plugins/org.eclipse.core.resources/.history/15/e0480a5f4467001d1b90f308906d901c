@@ -1,0 +1,13 @@
+package sintaxe_variaveis_e_convencoes;
+
+public class TestaConversao {
+	public static void main (String[] args) {
+		
+		double salario = 1250.50;
+		int valor = (int) salario;
+		//nós podemos tentar forçar a conversão, e fazer assim um cast
+		System.out.println(valor);
+		
+	}
+
+}

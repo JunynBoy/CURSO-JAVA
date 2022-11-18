@@ -1,0 +1,10 @@
+package sintaxe_variaveis_e_convencoes;
+
+public class Variaveis {
+	public static void main (String args[]) {
+		int idade;
+		idade = 31;
+		System.out.println("A sua idade e " + idade);
+		
+	}
+}
