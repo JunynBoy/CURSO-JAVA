@@ -9,10 +9,12 @@ public class TestaEscopo {
 		//boolean acompanhado = quantidadePessoas >= 2;
 		if (quantidadePessoas >= 2) {
 			//essa variavel existe apenas dentro da chave que ela foi escrita
-			 boolean acompanhado = true;
+			 @SuppressWarnings("unused")
+			boolean acompanhado = true;
 			 
 		} else {
 			//logo a variavel anterior morre quando fecha as chaves e agnt faz ela nascer de novo aqui
+			@SuppressWarnings("unused")
 			boolean acompanhado = false;
 			
 		}

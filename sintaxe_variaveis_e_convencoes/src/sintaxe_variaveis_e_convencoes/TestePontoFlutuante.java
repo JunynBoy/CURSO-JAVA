@@ -13,6 +13,7 @@ public class TestePontoFlutuante {
 		salario = 1250.70;
 		System.out.println("meu salario e" + salario);
 		
+		@SuppressWarnings("unused")
 		double idade = 37; //numero com vírgula com 10 casas decimais de precisao
 		
 		double divisao = 3.14 / 2;
