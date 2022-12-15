@@ -1,7 +1,8 @@
 
 public class Caneta {
 	public static void main(String[] args) {
-		
+		/*
+		 * AULA 02
 		//instaciação para objeto;
 		ClassCaneta caneta1 = new ClassCaneta();
 		
@@ -28,6 +29,16 @@ public class Caneta {
 		caneta2.destampar();
 		caneta2.rabiscar();
 		
+		AULA 03 LOGO ABAIXO
+		*/
+		ClassCaneta c1 = new ClassCaneta();
+		c1.modelo = "BIC Cristal";
+		c1.cor = "Azul";
+		//mas o método pode:
+		c1.destampar();
+		c1.carga = 80; //protected, está dentro de uma classe que está utilizando a classe caneta.
+		c1.status();
+		c1.rabiscar(); 
 		
 		
 		
