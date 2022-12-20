@@ -5,5 +5,9 @@ public class Cliente { //objeto cliente
 	String cpf;
 	String profissao;
 	
-
+	public Cliente(String n, String c, String p) {
+		nome = n;
+		cpf = c;
+		profissao = p;
+	}
 }
