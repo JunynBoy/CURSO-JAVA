@@ -1,6 +1,7 @@
 package bytebank_encapsulado;
 
 public class Teste {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		Cliente cliente = new Cliente("Marcos Gasparini","134.132.423-11","Sultana megid","Programador");
 		Conta conta = new Conta(cliente);

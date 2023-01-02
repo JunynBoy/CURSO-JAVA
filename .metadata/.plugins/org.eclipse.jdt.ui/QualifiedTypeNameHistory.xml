@@ -5,4 +5,5 @@
     <fullyQualifiedTypeName name="ClassCaneta"/>
     <fullyQualifiedTypeName name="java.lang.StackOverflowError"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.lang.StrictMath"/>
 </qualifiedTypeNameHistroy>
