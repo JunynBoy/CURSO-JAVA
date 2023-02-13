@@ -5,7 +5,7 @@ public class Fluxo {
 	public static void main(String[] args) {
 		System.out.println("Inicio do main");
 		metodo1();
-		System.out.println("fim do main");
+		System.out.println("fim do mainn");
 	}
 	
 	public static void metodo1() {
