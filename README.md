@@ -15,3 +15,7 @@ Todo o aprendizado de Java na Alura e no Curso em Video com o Guanabara, fiz uma
         <li>[Java_-_POO.pdf](https://github.com/JunynBoy/Java_Alura/files/10527311/Java_-_POO.pdf)</li>
      </ul>
 </ul>
+<h2>#Documentação Aprofundando em JAVA;</h2>
+<ul>
+ <li>Estudo de conceitos mais avançados ainda em andamento.....</li>
+ <ul>
