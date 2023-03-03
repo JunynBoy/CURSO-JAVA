@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <libraryInfos>
     <libraryInfo home="G:\apps para estudo\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.5.v20221102-0933" version="17.0.5"/>
+    <libraryInfo home="C:\Users\acer\eclipse\eclipse IDE EE\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.5.v20221102-0933\jre" version="17.0.5"/>
     <libraryInfo home="C:\Program Files\Java\jdk1.8.0_351" version="1.8.0_351">
         <bootpath>
             <entry path="C:\Program Files\Java\jdk1.8.0_351\jre\lib\resources.jar"/>
@@ -21,5 +22,6 @@
     </libraryInfo>
     <libraryInfo home="G:\apps para estudo\Java" version="19"/>
     <libraryInfo home="G:\apps para estudo\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.5.v20221102-0933\jre" version="17.0.5"/>
+    <libraryInfo home="C:\Users\acer\eclipse\eclipse IDE EE\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.5.v20221102-0933" version="17.0.5"/>
     <libraryInfo home="C:\Program Files\Java\jdk-19" version="19"/>
 </libraryInfos>
