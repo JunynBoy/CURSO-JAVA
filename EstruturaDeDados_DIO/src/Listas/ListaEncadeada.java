@@ -23,9 +23,12 @@ public class ListaEncadeada<T> {
 	}
 	
 	
+	
 	public T get(int index) {						//Objetivo do método pegar informação do nó que for apontado no índice
 		return getNo(index).getCoteudo();			//vai reutilizar o método getnó e vai pegar o conteudo do nó apontado por ele 
 	}
+	
+	
 
 	private No<T> getNo(int index) { 				//objetivo é retornar uma amostra do no ( referencia )
 		validaIndice(index);						// vai validar se o índice passado corresponde com o índice existente
@@ -37,6 +40,8 @@ public class ListaEncadeada<T> {
 		}
 		return noRetorno;
 	}
+	
+	
 	
 	public void add(T conteudo) {					 //objetivo, adicionar um novo nó na lista
 		No<T> novoNo = new No<>(conteudo);			 //aqui estamos instanciando um novo no com o conteudo desejado
@@ -75,6 +80,8 @@ public class ListaEncadeada<T> {
 		return tamanhoLista;	
 	}
 	
+	
+	
 	private void validaIndice(int index) { 						//Objetivo: validar se o indice que foi passado corresponde ao tamanho do índice existente
 		if(index >= size()) {									// if que vai percorrer 
 			int ultimoIndice = size()-1;
@@ -85,6 +92,8 @@ public class ListaEncadeada<T> {
 	
 		}
 	}
+	
+	
 	
 	public boolean isEmpty() { 									//objetivo verificar se a lista está vazia 
 		return referenciaEntrada == null ? true :  false;

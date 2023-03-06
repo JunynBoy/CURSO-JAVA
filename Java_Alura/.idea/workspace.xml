@@ -1,13 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e6bf91a-7bf2-4b90-8fc8-21024e25f977" name="Changes" comment="" />
+    <list default="true" id="7e6bf91a-7bf2-4b90-8fc8-21024e25f977" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1865797976.index" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1865797976.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/version.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../EstruturaDeDados_DIO/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../EstruturaDeDados_DIO/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../EstruturaDeDados_DIO/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../EstruturaDeDados_DIO/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/bin/Fila/Fila.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EstruturaDeDados_DIO/bin/Fila/Fila.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/bin/Fila/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EstruturaDeDados_DIO/bin/Fila/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/bin/Fila/No.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EstruturaDeDados_DIO/bin/Fila/No.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/bin/Listas/ListaEncadeada.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EstruturaDeDados_DIO/bin/Listas/ListaEncadeada.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/bin/Listas/No.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EstruturaDeDados_DIO/bin/Listas/No.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/bin/Nos/No.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EstruturaDeDados_DIO/bin/Nos/No.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/bin/Nos/principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EstruturaDeDados_DIO/bin/Nos/principal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/bin/Pilhas/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EstruturaDeDados_DIO/bin/Pilhas/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/bin/Pilhas/No.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EstruturaDeDados_DIO/bin/Pilhas/No.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/bin/Pilhas/Pilha.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EstruturaDeDados_DIO/bin/Pilhas/Pilha.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/src/Fila/Fila.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EstruturaDeDados_DIO/src/Fila/Fila.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/src/Fila/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EstruturaDeDados_DIO/src/Fila/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/src/Fila/No.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EstruturaDeDados_DIO/src/Fila/No.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/src/Listas/ListaEncadeada.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EstruturaDeDados_DIO/src/Listas/ListaEncadeada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/src/Listas/No.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EstruturaDeDados_DIO/src/Listas/No.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/src/Nos/No.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EstruturaDeDados_DIO/src/Nos/No.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/src/Nos/principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EstruturaDeDados_DIO/src/Nos/principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/src/Pilhas/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EstruturaDeDados_DIO/src/Pilhas/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/src/Pilhas/No.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EstruturaDeDados_DIO/src/Pilhas/No.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDeDados/src/Pilhas/Pilha.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EstruturaDeDados_DIO/src/Pilhas/Pilha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TiposOperadores.pdf" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="2HifRKpkpQV31T00UvkwBQbhHpp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -16,7 +61,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/acer/Documents/GitHub/Java/Java_Alura"
+    "last_opened_file_path": "C:/Users/acer/Downloads/teste"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -29,5 +74,16 @@
       <updated>1668772818520</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
