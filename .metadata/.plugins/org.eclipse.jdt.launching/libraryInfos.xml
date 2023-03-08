@@ -20,8 +20,10 @@
             <entry path="C:\Program Files\Java\jdk1.8.0_351\jre\lib\endorsed"/>
         </endorsedDirs>
     </libraryInfo>
+    <libraryInfo home="C:\Users\chani\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.6.v20230204-1729" version="17.0.6"/>
     <libraryInfo home="G:\apps para estudo\Java" version="19"/>
     <libraryInfo home="G:\apps para estudo\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.5.v20221102-0933\jre" version="17.0.5"/>
     <libraryInfo home="C:\Users\acer\eclipse\eclipse IDE EE\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.5.v20221102-0933" version="17.0.5"/>
+    <libraryInfo home="C:\Users\chani\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.6.v20230204-1729\jre" version="17.0.6"/>
     <libraryInfo home="C:\Program Files\Java\jdk-19" version="19"/>
 </libraryInfos>

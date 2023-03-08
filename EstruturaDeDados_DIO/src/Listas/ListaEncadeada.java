@@ -34,7 +34,7 @@ public class ListaEncadeada<T> {
 		validaIndice(index);						// vai validar se o índice passado corresponde com o índice existente
 		No<T> noAuxiliar = referenciaEntrada; 		//variável auxiliar para indicar o primeiro nó
 		No<T> noRetorno = null; 					//armazena o nó que será retornado pelo método
-		for(int i = 0 ; i < this.size()-1 ;i++ ) { 	//loop que percorre o 
+		for(int i = 0 ; i <= index ;i++ ) { 	//loop que percorre o 
 			noRetorno = noAuxiliar;					
 			noAuxiliar = noAuxiliar.getProximoNo();
 		}
@@ -52,8 +52,9 @@ public class ListaEncadeada<T> {
 		No<T> noAuxiliar = referenciaEntrada;		 //se ela nao estiver vazia voce instancia u nó auxiliar com a referencia para a entrada dos nós
 		for (int i = 0 ; i < this.size()-1 ;i++ ) {	 //loop for que percorre a lista encadeada até chegar no último nó 
 			noAuxiliar = noAuxiliar.getProximoNo();	 //o nó auxiliar quem vai receber a referencia para percorrer a lista de nós até chegar no último
-		noAuxiliar.setProximoNo(novoNo);			 //quando o nó auxiliar apontar para o ultimo nó ele vai setar o novo nó como sendo o proximo.
+					                                 //quando o nó auxiliar apontar para o ultimo nó ele vai setar o novo nó como sendo o proximo.
 		}
+		noAuxiliar.setProximoNo(novoNo);
 	}
 	
 	
@@ -98,6 +99,23 @@ public class ListaEncadeada<T> {
 	public boolean isEmpty() { 									//objetivo verificar se a lista está vazia 
 		return referenciaEntrada == null ? true :  false;
 	}
+	
+
+
+	@Override
+	public String toString() {
+		String strRetorno = "";
+		No<T> noAuxiliar = referenciaEntrada;
+		for (int i = 0; i< this.size(); i++ ) {
+			strRetorno += "ListaEncadeada [referenciaEntrada=" + noAuxiliar + "] ----> ";
+			noAuxiliar = noAuxiliar.getProximoNo(); 	
+		}
+		strRetorno += "null";
+		return strRetorno;
+	}
+	
+	
+	
 	
 	
 }
