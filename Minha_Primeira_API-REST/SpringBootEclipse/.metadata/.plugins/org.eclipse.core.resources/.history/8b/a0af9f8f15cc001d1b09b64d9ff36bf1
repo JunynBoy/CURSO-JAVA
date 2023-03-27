@@ -1,0 +1,31 @@
+package com.myapy.myapi.services;
+
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
+import org.springframework.stereotype.Service;
+import org.springframework.web.bind.annotation.GetMapping;
+
+import com.myapy.myapi.domain.Usuario;
+import com.myapy.myapi.repositories.UsuarioRepository;
+import com.myapy.myapi.services.exceptions.ObjectNotFoundException;
+
+import jakarta.validation.constraints.AssertFalse.List;
+
+@Service
+public class UsuarioService {
+
+	@Autowired
+	private UsuarioRepository repository;
+
+	public Usuario findById(Integer id) {
+		Optional<Usuario> obj = repository.findById(id);
+		return obj.orElseThrow(
+				() -> new ObjectNotFoundException("Objeto " + id + " não encontrado, Tipo: " + Usuario.class.getName()));
+	}
+	
+	
+	
+	
+}

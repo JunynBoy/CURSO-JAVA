@@ -1,0 +1,19 @@
+package com.myapy.myapi.resources.exceptions;
+
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.ControllerAdvice;
+import org.springframework.web.bind.annotation.ExceptionHandler;
+
+import com.myapy.myapi.services.exceptions.ObjectNotFoundException;
+
+import jakarta.servlet.http.HttpServletRequest;
+
+@ControllerAdvice
+public class ResourceExceptionHandler {
+	
+	@ExceptionHandler(ObjectNotFoundException.class){
+	public ResponseEntity<StandardError> objectNotFound(ObjectNotFoundException e, HttpServletRequest request)){
+		Standard error = new StandardError(null, null, null);	
+	}
+	
+}

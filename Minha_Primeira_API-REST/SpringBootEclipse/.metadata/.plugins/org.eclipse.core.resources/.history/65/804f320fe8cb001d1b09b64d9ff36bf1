@@ -1,0 +1,5 @@
+package com.myapy.myapi.services.exceptions;
+
+public class ObjectNotFoundException extends RuntimeException {
+
+}
